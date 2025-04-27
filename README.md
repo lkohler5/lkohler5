@@ -1,11 +1,11 @@
 Hey, I'm Lucile Kohler! 👋
-I'm a student passionate about coding and learning new tech. Currently diving into [technologies you're learning, e.g., "React and Python"]. I love building personal projects and contributing to open-source.
+I'm a student passionate about coding and learning new tech. I love building personal projects and contributing to open-source.
 
 🔧 Languages: JavaScript, Python
 
 📚 Currently learning: Web development, Data Structures
 
-🎮 Fun fact: I’m a huge fan of football
+🎮 Fun fact: I’m a huge fan of travelling
 
 Check out my projects below, and feel free to reach out!
 
